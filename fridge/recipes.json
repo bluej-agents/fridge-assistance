@@ -1,0 +1,295 @@
+[
+  {
+    "id": "tomato-eggs",
+    "name": "番茄炒蛋",
+    "emoji": "🍅",
+    "minutes": 12,
+    "vegetarian": true,
+    "ingredients": [
+      {
+        "name": "番茄",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 3,
+        "unit": "个"
+      }
+    ],
+    "staples": [
+      "食用油",
+      "盐"
+    ],
+    "steps": [
+      "番茄洗净切块，鸡蛋打散。",
+      "锅中加少量油，炒熟鸡蛋后盛出。",
+      "炒软番茄，加入鸡蛋和盐，翻炒至完全熟透。"
+    ],
+    "servings": 2,
+    "source": "项目内置示例菜谱（人工编写，时间与用量为参考）"
+  },
+  {
+    "id": "cabbage",
+    "name": "清炒白菜",
+    "emoji": "🥬",
+    "minutes": 10,
+    "vegetarian": true,
+    "ingredients": [
+      {
+        "name": "白菜",
+        "amount": 350,
+        "unit": "克"
+      }
+    ],
+    "staples": [
+      "食用油",
+      "盐"
+    ],
+    "steps": [
+      "白菜洗净，菜帮与菜叶分别切好。",
+      "锅中加油，先炒菜帮，再加入菜叶。",
+      "加盐翻炒至熟，可加少量水防止干锅。"
+    ],
+    "servings": 2,
+    "source": "项目内置示例菜谱（人工编写，时间与用量为参考）"
+  },
+  {
+    "id": "tomato-soup",
+    "name": "番茄蛋花汤",
+    "emoji": "🥣",
+    "minutes": 12,
+    "vegetarian": true,
+    "ingredients": [
+      {
+        "name": "番茄",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个"
+      }
+    ],
+    "staples": [
+      "食用油",
+      "盐"
+    ],
+    "steps": [
+      "番茄洗净切块，鸡蛋打散。",
+      "炒软番茄，加水煮开。",
+      "缓缓倒入蛋液，煮至鸡蛋熟透后调味。"
+    ],
+    "servings": 2,
+    "source": "项目内置示例菜谱（人工编写，时间与用量为参考）"
+  },
+  {
+    "id": "potato",
+    "name": "清炒土豆丝",
+    "emoji": "🥔",
+    "minutes": 15,
+    "vegetarian": true,
+    "ingredients": [
+      {
+        "name": "土豆",
+        "amount": 350,
+        "unit": "克"
+      }
+    ],
+    "staples": [
+      "食用油",
+      "盐",
+      "醋"
+    ],
+    "steps": [
+      "土豆去皮切丝，冲去表面淀粉后沥干。",
+      "热锅加油，放入土豆丝翻炒。",
+      "加少量醋和盐，炒至完全熟透。"
+    ],
+    "servings": 2,
+    "source": "项目内置示例菜谱（人工编写，时间与用量为参考）"
+  },
+  {
+    "id": "cucumber-eggs",
+    "name": "黄瓜炒蛋",
+    "emoji": "🥒",
+    "minutes": 12,
+    "vegetarian": true,
+    "ingredients": [
+      {
+        "name": "黄瓜",
+        "amount": 250,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个"
+      }
+    ],
+    "staples": [
+      "食用油",
+      "盐"
+    ],
+    "steps": [
+      "黄瓜洗净切片，鸡蛋打散。",
+      "炒熟鸡蛋，盛出备用。",
+      "炒黄瓜至熟，加入鸡蛋和盐拌匀。"
+    ],
+    "servings": 2,
+    "source": "项目内置示例菜谱（人工编写，时间与用量为参考）"
+  },
+  {
+    "id": "mushroom-tofu",
+    "name": "香菇烧豆腐",
+    "emoji": "🍄",
+    "minutes": 18,
+    "vegetarian": true,
+    "ingredients": [
+      {
+        "name": "香菇",
+        "amount": 150,
+        "unit": "克"
+      },
+      {
+        "name": "豆腐",
+        "amount": 300,
+        "unit": "克"
+      }
+    ],
+    "staples": [
+      "食用油",
+      "盐",
+      "酱油"
+    ],
+    "steps": [
+      "香菇洗净切片，豆腐切块。",
+      "锅中加油，炒香香菇。",
+      "加入豆腐、少量水和酱油，炖至熟透后调味。"
+    ],
+    "servings": 2,
+    "source": "项目内置示例菜谱（人工编写，时间与用量为参考）"
+  },
+  {
+    "id": "cabbage-tofu",
+    "name": "白菜炖豆腐",
+    "emoji": "🍲",
+    "minutes": 18,
+    "vegetarian": true,
+    "ingredients": [
+      {
+        "name": "白菜",
+        "amount": 250,
+        "unit": "克"
+      },
+      {
+        "name": "豆腐",
+        "amount": 300,
+        "unit": "克"
+      }
+    ],
+    "staples": [
+      "食用油",
+      "盐"
+    ],
+    "steps": [
+      "白菜洗净切段，豆腐切块。",
+      "炒软白菜，加入豆腐和适量水。",
+      "煮开后炖至食材熟透，加盐调味。"
+    ],
+    "servings": 2,
+    "source": "项目内置示例菜谱（人工编写，时间与用量为参考）"
+  },
+  {
+    "id": "broccoli",
+    "name": "清炒西兰花",
+    "emoji": "🥦",
+    "minutes": 12,
+    "vegetarian": true,
+    "ingredients": [
+      {
+        "name": "西兰花",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "大蒜",
+        "amount": 2,
+        "unit": "瓣"
+      }
+    ],
+    "staples": [
+      "食用油",
+      "盐"
+    ],
+    "steps": [
+      "西兰花切小朵洗净，大蒜切末。",
+      "西兰花用沸水焯至熟后沥水。",
+      "锅中加油，放入蒜末和西兰花翻炒调味。"
+    ],
+    "servings": 2,
+    "source": "项目内置示例菜谱（人工编写，时间与用量为参考）"
+  },
+  {
+    "id": "chicken-mushroom",
+    "name": "香菇鸡肉",
+    "emoji": "🍗",
+    "minutes": 25,
+    "vegetarian": false,
+    "ingredients": [
+      {
+        "name": "鸡肉",
+        "amount": 300,
+        "unit": "克"
+      },
+      {
+        "name": "香菇",
+        "amount": 150,
+        "unit": "克"
+      }
+    ],
+    "staples": [
+      "食用油",
+      "盐",
+      "酱油"
+    ],
+    "steps": [
+      "鸡肉切小块，香菇洗净切片，生熟用具分开。",
+      "热锅加油，炒鸡肉至变色，加入香菇。",
+      "加入酱油和少量水，炖至鸡肉中心完全熟透后调味。"
+    ],
+    "servings": 2,
+    "source": "项目内置示例菜谱（人工编写，时间与用量为参考）"
+  },
+  {
+    "id": "pepper-eggs",
+    "name": "青椒炒蛋",
+    "emoji": "🫑",
+    "minutes": 12,
+    "vegetarian": true,
+    "ingredients": [
+      {
+        "name": "青椒",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 3,
+        "unit": "个"
+      }
+    ],
+    "staples": [
+      "食用油",
+      "盐"
+    ],
+    "steps": [
+      "青椒去籽洗净切丝，鸡蛋打散。",
+      "先炒熟鸡蛋，盛出。",
+      "炒熟青椒后倒回鸡蛋，加盐翻炒均匀。"
+    ],
+    "servings": 2,
+    "source": "项目内置示例菜谱（人工编写，时间与用量为参考）"
+  }
+]

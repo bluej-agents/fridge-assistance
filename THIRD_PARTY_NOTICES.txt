@@ -1,0 +1,281 @@
+THIRD-PARTY DEPENDENCY NOTICES
+==============================
+
+fridge-assistance (冰箱有招) is licensed under the MIT license in LICENSE.
+Dependencies retain their own licenses and copyright notices; the project's
+MIT license does not relicense them.
+
+Scope
+-----
+This source distribution contains application source, static assets, example
+data, tests and dependency requirement files. It does not bundle Python,
+Node.js, a browser, dependency source trees, wheels, virtual environments or
+native shared libraries. pip installs third-party packages separately.
+
+The inventory below describes the versions recorded in requirements-lock.txt
+(Windows / Python 3.12), including development and transitive packages.
+Other resolution choices may install different versions. License identifiers
+were checked against installed distribution metadata and included license
+files; identifiers alone do not replace their full terms. The package and
+source links provide upstream provenance. Keep the applicable LICENSE and
+NOTICE files when redistributing dependency code or binaries.
+
+Direct runtime dependencies
+---------------------------
+smolagents 1.26.0: Apache-2.0 (Hugging Face and contributors)
+FastAPI 0.150.0: MIT (FastAPI contributors)
+uvicorn 0.54.0: BSD-3-Clause (uvicorn contributors)
+python-dotenv 1.2.4: BSD-3-Clause (python-dotenv contributors)
+
+Complete locked package inventory
+---------------------------------
+Format: package version | license identifier
+        upstream source
+        version-specific package record
+
+annotated-doc 0.0.5 | MIT
+  https://github.com/fastapi/annotated-doc
+  https://pypi.org/project/annotated-doc/0.0.5/
+
+annotated-types 0.8.0 | MIT
+  https://github.com/annotated-types/annotated-types
+  https://pypi.org/project/annotated-types/0.8.0/
+
+anyio 4.15.1 | MIT
+  https://github.com/agronholm/anyio
+  https://pypi.org/project/anyio/4.15.1/
+
+certifi 2026.10.19 | MPL-2.0
+  https://github.com/certifi/python-certifi
+  https://pypi.org/project/certifi/2026.10.19/
+
+charset-normalizer 3.5.2 | MIT
+  https://github.com/jawah/charset_normalizer
+  https://pypi.org/project/charset-normalizer/3.5.2/
+
+click 8.5.0 | BSD-3-Clause
+  https://github.com/pallets/click/
+  https://pypi.org/project/click/8.5.0/
+
+colorama 0.4.6 | BSD-3-Clause
+  https://github.com/tartley/colorama
+  https://pypi.org/project/colorama/0.4.6/
+
+fastapi 0.150.0 | MIT
+  https://github.com/fastapi/fastapi
+  https://pypi.org/project/fastapi/0.150.0/
+
+filelock 4.2.4 | MIT
+  https://github.com/tox-dev/py-filelock
+  https://pypi.org/project/filelock/4.2.4/
+
+fsspec 2026.9.0 | BSD-3-Clause
+  https://github.com/fsspec/filesystem_spec
+  https://pypi.org/project/fsspec/2026.9.0/
+
+h11 0.16.0 | MIT
+  https://github.com/python-hyper/h11
+  https://pypi.org/project/h11/0.16.0/
+
+hf-xet 1.7.0 | Apache-2.0
+  https://github.com/huggingface/xet-core.git
+  https://pypi.org/project/hf-xet/1.7.0/
+
+httpcore 1.0.9 | BSD-3-Clause
+  https://github.com/encode/httpcore
+  https://pypi.org/project/httpcore/1.0.9/
+
+httpcore2 2.15.1 | BSD-3-Clause
+  https://github.com/pydantic/httpx2/blob/main/src/httpcore2
+  https://pypi.org/project/httpcore2/2.15.1/
+
+httpx 0.28.1 | BSD-3-Clause
+  https://github.com/encode/httpx
+  https://pypi.org/project/httpx/0.28.1/
+
+httpx2 2.15.1 | BSD-3-Clause
+  https://github.com/pydantic/httpx2
+  https://pypi.org/project/httpx2/2.15.1/
+
+huggingface_hub 2.2.0 | Apache-2.0
+  https://github.com/huggingface/huggingface_hub
+  https://pypi.org/project/huggingface_hub/2.2.0/
+
+idna 3.20 | BSD-3-Clause
+  https://github.com/kjd/idna
+  https://pypi.org/project/idna/3.20/
+
+iniconfig 2.3.1 | MIT
+  https://github.com/pytest-dev/iniconfig
+  https://pypi.org/project/iniconfig/2.3.1/
+
+Jinja2 3.1.6 | BSD-3-Clause
+  https://github.com/pallets/jinja/
+  https://pypi.org/project/Jinja2/3.1.6/
+
+jiter 0.17.0 | MIT
+  https://github.com/pydantic/jiter/
+  https://pypi.org/project/jiter/0.17.0/
+
+markdown-it-py 4.2.0 | MIT
+  https://github.com/executablebooks/markdown-it-py
+  https://pypi.org/project/markdown-it-py/4.2.0/
+
+MarkupSafe 3.0.4 | BSD-3-Clause
+  https://github.com/pallets/markupsafe/
+  https://pypi.org/project/MarkupSafe/3.0.4/
+
+mdurl 0.1.2 | MIT
+  https://github.com/executablebooks/mdurl
+  https://pypi.org/project/mdurl/0.1.2/
+
+openai 3.35.1 | Apache-2.0
+  https://github.com/openai/openai-python
+  https://pypi.org/project/openai/3.35.1/
+
+opentelemetry-api 1.45.1 | Apache-2.0
+  https://github.com/open-telemetry/opentelemetry-python
+  https://pypi.org/project/opentelemetry-api/1.45.1/
+
+packaging 26.3 | Apache-2.0 OR BSD-2-Clause
+  https://github.com/pypa/packaging
+  https://pypi.org/project/packaging/26.3/
+
+pillow 13.0.0 | MIT-CMU
+  https://github.com/python-pillow/Pillow
+  https://pypi.org/project/pillow/13.0.0/
+
+pluggy 1.7.0 | MIT
+  https://github.com/pytest-dev/pluggy
+  https://pypi.org/project/pluggy/1.7.0/
+
+pydantic 2.14.1 | MIT
+  https://github.com/pydantic/pydantic
+  https://pypi.org/project/pydantic/2.14.1/
+
+pydantic_core 2.50.1 | MIT
+  https://github.com/pydantic/pydantic/tree/main/pydantic-core
+  https://pypi.org/project/pydantic_core/2.50.1/
+
+Pygments 2.21.0 | BSD-2-Clause
+  https://github.com/pygments/pygments
+  https://pypi.org/project/Pygments/2.21.0/
+
+pytest 9.1.1 | MIT
+  https://github.com/pytest-dev/pytest
+  https://pypi.org/project/pytest/9.1.1/
+
+python-dotenv 1.2.4 | BSD-3-Clause
+  https://github.com/theskumar/python-dotenv
+  https://pypi.org/project/python-dotenv/1.2.4/
+
+PyYAML 6.0.3 | MIT
+  https://github.com/yaml/pyyaml
+  https://pypi.org/project/PyYAML/6.0.3/
+
+requests 2.34.2 | Apache-2.0
+  https://github.com/psf/requests
+  https://pypi.org/project/requests/2.34.2/
+
+rich 15.0.0 | MIT
+  https://github.com/Textualize/rich
+  https://pypi.org/project/rich/15.0.0/
+
+smolagents 1.26.0 | Apache-2.0
+  https://github.com/huggingface/smolagents
+  https://pypi.org/project/smolagents/1.26.0/
+
+sniffio 1.3.1 | MIT OR Apache-2.0
+  https://github.com/python-trio/sniffio
+  https://pypi.org/project/sniffio/1.3.1/
+
+starlette 1.9.0 | BSD-3-Clause
+  https://github.com/Kludex/starlette
+  https://pypi.org/project/starlette/1.9.0/
+
+tqdm 4.70.1 | MPL-2.0 AND MIT
+  https://github.com/tqdm/tqdm
+  https://pypi.org/project/tqdm/4.70.1/
+
+truststore 0.10.5 | MIT
+  https://github.com/sethmlarson/truststore
+  https://pypi.org/project/truststore/0.10.5/
+
+typing-inspection 0.4.4 | MIT
+  https://github.com/pydantic/typing-inspection
+  https://pypi.org/project/typing-inspection/0.4.4/
+
+typing_extensions 4.16.0 | PSF-2.0
+  https://github.com/python/typing_extensions
+  https://pypi.org/project/typing_extensions/4.16.0/
+
+urllib3 2.8.0 | MIT
+  https://github.com/urllib3/urllib3
+  https://pypi.org/project/urllib3/2.8.0/
+
+uvicorn 0.54.0 | BSD-3-Clause
+  https://github.com/Kludex/uvicorn
+  https://pypi.org/project/uvicorn/0.54.0/
+
+Selected notices and license qualifications
+------------------------------------------
+Requests includes the following upstream NOTICE:
+  Requests
+  Copyright 2019 Kenneth Reitz
+
+Colorama 0.4.6's included LICENSE.txt is BSD-3-Clause:
+  Copyright (c) 2010 Jonathan Hartley. All rights reserved.
+Jinja2's included LICENSE.txt is BSD-3-Clause:
+  Copyright 2007 Pallets.
+
+markdown-it-py includes MIT notices for ExecutableBookProject and for the
+upstream markdown-it implementation (Vitaly Puzrin and Alex Kocharin).
+mdurl's MIT notices also credit Taneli Hukkinen and Joyent / Node contributors
+for the URL parsing implementation. Preserve their full upstream notices if
+redistributing these packages.
+
+certifi is MPL-2.0. tqdm includes MPL-2.0 and MIT portions, with file-specific
+notices in its LICENCE, including Casper da Costa-Luis, Google Inc. and the
+original author Noam Yorav-Raphael. Do not replace these with this project's
+MIT license. Review MPL source-availability requirements for redistributed
+covered files and modifications.
+
+Pillow identifies its main project license as MIT-CMU, including the PIL
+and Pillow notices:
+  Copyright (c) 1997-2011 by Secret Labs AB
+  Copyright (c) 1995-2011 by Fredrik Lundh and contributors
+  Copyright (c) 2010 by Jeffrey 'Alex' Clark and contributors
+Pillow wheels can contain additional bundled native components with their
+own terms, listed in the wheel's LICENSE. That binary component inventory
+must be reviewed again before distributing wheels, containers or executables.
+
+typing_extensions uses PSF-2.0 and includes Python's license history and
+associated notices. packaging offers Apache-2.0 OR BSD-2-Clause; sniffio
+offers MIT OR Apache-2.0. Keep the license choice and notices applicable to
+the form being redistributed.
+
+The OpenAI Python client also contains vendored httpx_aiohttp license
+material. Native wheels (including hf-xet and other compiled dependencies)
+can have further component notices. No such dependency code or binaries
+are included in this source distribution. A binary, wheel, container or
+vendored distribution needs its own complete component and license review.
+
+Python, Node.js, Playwright, Chromium and system fonts are separate tools or
+platform components, not included in this source distribution. Their terms
+apply when installing or redistributing them. The application references
+system fonts and emoji rather than shipping font files.
+
+Upstream license references
+---------------------------
+smolagents v1.26.0:
+  https://github.com/huggingface/smolagents/blob/v1.26.0/LICENSE
+Apache License 2.0:
+  https://www.apache.org/licenses/LICENSE-2.0
+Mozilla Public License 2.0:
+  https://www.mozilla.org/MPL/2.0/
+Python Software Foundation license:
+  https://docs.python.org/3/license.html
+
+This inventory is a dependency attribution aid for the source release. It
+does not claim that all future installation combinations or binary bundles
+have been audited.

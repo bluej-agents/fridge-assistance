@@ -1,0 +1,8 @@
+{
+  "ingredients": ["鸡蛋", "番茄", "白菜"],
+  "people": 2,
+  "minutes": 30,
+  "vegetarian": true,
+  "exclude_ids": [],
+  "mode": "demo"
+}
