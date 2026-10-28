@@ -17,7 +17,7 @@
 需要 Python 3.12 和 Git。Node.js 仅用于前端测试，日常运行不需要。先下载源码：
 
 ```text
-git clone https://github.com/crediblezengfei-stack/fridge-assistance.git
+git clone https://github.com/bluej-agents/fridge-assistance.git
 cd fridge-assistance
 ```
 
